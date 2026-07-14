@@ -1,5 +1,4 @@
-# astronacci
-astronacci
+
 # Airline Voucher Seat Assignment System
 
 ## Overview
